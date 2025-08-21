@@ -1,1 +1,1 @@
-# zoom-in-NaCl-acitivity
+# zoom-in-NaCl-activity
